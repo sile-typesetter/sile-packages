@@ -1,7 +1,8 @@
 Catalogue = {
   endnotes = {
     description = "Convert footnotes to endnotes",
-    repository  = "https://github.com/simoncozens/sile-endnotes"
+    repository  = "https://github.com/simoncozens/sile-endnotes",
+    depends     = {"patchcommand"}
   },
   fontproof = {
     description = "A font design testing class",
