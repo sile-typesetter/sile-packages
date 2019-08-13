@@ -9,7 +9,7 @@ Catalogue = {
     repository  = "https://github.com/silnrsi/fontproof",
     version = "v1.1.1"
   },
-  ftml-sile = {
+  ["ftmlsile"] = {
     description = "A class for font testing using content in FTML format",
     repository  = "https://github.com/silnrsi/ftml-sile",
     version = "v1.0.1"
