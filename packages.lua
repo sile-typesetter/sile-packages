@@ -1,3 +1,4 @@
+--
 Catalogue = {
   endnotes = {
     description = "Convert footnotes to endnotes",
