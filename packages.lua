@@ -8,7 +8,7 @@ Catalogue = {
   fontproof = {
     description = "A font design testing class",
     repository  = "https://github.com/silnrsi/fontproof",
-    version = "v1.2.0"
+    version = "v1.3.0"
   },
   ["ftmlsile"] = {
     description = "A class for font testing using content in FTML format",
