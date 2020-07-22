@@ -18,6 +18,10 @@ Catalogue = {
   patchcommand = {
     description = "Patch a command with before and after hooks",
     repository  = "https://github.com/simoncozens/sile-patchcommand"
+  },
+  texmode = {
+    description = "LaTeX-style ligatures, combining characters & more",
+    repository  = "https://github.com/ctrlcctrlv/sile-texmode"
   }
 }
 
