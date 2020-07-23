@@ -1,5 +1,4 @@
---
-Catalogue = {
+local Catalogue = {
   endnotes = {
     description = "Convert footnotes to endnotes",
     repository  = "https://github.com/simoncozens/sile-endnotes",
@@ -10,7 +9,7 @@ Catalogue = {
     repository  = "https://github.com/silnrsi/fontproof",
     version = "v1.3.1"
   },
-  ["ftmlsile"] = {
+  ftmlsile = {
     description = "A class for font testing using content in FTML format",
     repository  = "https://github.com/silnrsi/ftml-sile",
     version = "v1.0.1"
