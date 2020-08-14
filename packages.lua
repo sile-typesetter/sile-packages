@@ -21,6 +21,10 @@ local Catalogue = {
   texmode = {
     description = "LaTeX-style ligatures, combining characters & more",
     repository  = "https://github.com/ctrlcctrlv/sile-texmode"
+  },
+  logos = {
+    description = "LaTeX bumpy road logos like \\XeLaTeX reimplemented in SILE, for talking about LaTeX in SILE",
+    repository  = "https://github.com/ctrlcctrlv/sile-logos"
   }
 }
 
