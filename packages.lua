@@ -6,8 +6,8 @@ local Catalogue = {
   },
   fontproof = {
     description = "A font design testing class",
-    repository  = "https://github.com/silnrsi/fontproof",
-    version = "v1.3.3"
+    repository  = "https://github.com/sile-typesetter/fontproof",
+    version = "v1.5.0"
   },
   ftmlsile = {
     description = "A class for font testing using content in FTML format",
